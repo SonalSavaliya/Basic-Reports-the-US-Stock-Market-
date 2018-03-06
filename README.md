@@ -1,4 +1,4 @@
-# Basic-Reports-the-US-Stock-Market-2016
+# Basic Reports the US Stock Market for the year 2016
 
 This project is written in Python by utilizing the Pandas and Pandas_datareader libraries
 
