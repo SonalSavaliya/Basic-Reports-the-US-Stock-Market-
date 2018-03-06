@@ -3,6 +3,7 @@
 This project is written in Python by utilizing the Pandas and Pandas_datareader libraries
 
 Foloowing tasks are implemented in this project:
+
 1.Implemented top 5 public traded corporation including Symbol name, Security name, and full name of listing exchange
 
 2.Calculated their Relative Returns using this formula:  Relative Rrtuen (t) = p(t) - P(t-1) / P(t-1)     
